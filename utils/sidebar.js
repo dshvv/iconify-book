@@ -1,1 +1,1 @@
-module.exports =["index.md","第1章_图标组件.md"]
+module.exports =["index.md","第1章_图标组件.md","第2章_图标源.md"]
