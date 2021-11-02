@@ -3,7 +3,7 @@ const sidebar = require('../../utils/sidebar');
 module.exports = {
   lang: 'zh-CN',
   title: 'Iconify',
-  description: 'JavaScript高级程序设计 红宝书',
+  description: 'iconify教程',
   base: '/iconify-book/dist/',
   dest: './dist',
   themeConfig: {
